@@ -44,7 +44,7 @@
     <div class="container-scroller">
       <!-- partial:partials/_sidebar.html -->
       @include('admin.sidebar')
-      <!-- partial -->
+      <!-- partialdfg -->
       @include('admin.header')
 
       <div class="main-panel">
