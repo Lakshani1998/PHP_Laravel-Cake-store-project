@@ -11,13 +11,13 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Festive special offer
                                     </span>
                                     <br>
-                                    On Everything
+                                    15% for any Product
                                  </h1>
                                  <p>
-                                    Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                 Choose from an ever changing range of freshly made cakes, bakes, savouries and coffee to take away and enjoy. We are proud to offer a wide range of fresh hand baked produce daily.
                                  </p>
                                  <div class="btn-box">
                                     <a href="" class="btn1">
@@ -36,13 +36,13 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Check our delicious bake
                                     </span>
                                     <br>
-                                    On Everything
+                                    become a trade customer today
                                  </h1>
                                  <p>
-                                    Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                 Cakes, bakes and desserts can be ordered whole for pick up and delivery locally, or bought by the slice from our counter to have with one of our delicious Sunday Collab take away coffees. If you fancy something a little more savoury, our award winning quiche, home made sausage rolls, salads, and ciabattas can also be found in our chiller ready to eat on the go, or take away and enjoy at home.
                                  </p>
                                  <div class="btn-box">
                                     <a href="" class="btn1">
@@ -61,13 +61,13 @@
                               <div class="detail-box">
                                  <h1>
                                     <span>
-                                    Sale 20% Off
+                                    Delicious & award-winning 
                                     </span>
                                     <br>
-                                    On Everything
+                                    Home Made Cakes
                                  </h1>
                                  <p>
-                                    Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                 Choose from an ever changing range of freshly made cakes, bakes, savouries and coffee to take away and enjoy. We are proud to offer a wide range of fresh hand baked produce daily.   
                                  </p>
                                  <div class="btn-box">
                                     <a href="" class="btn1">

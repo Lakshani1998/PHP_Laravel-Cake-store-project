@@ -100,7 +100,7 @@
                            Fast Delivery
                         </h5>
                         <p>
-                           variations of passages of Lorem Ipsum available
+                        Adding Speed to your Deliveries
                         </p>
                      </div>
                   </div>
@@ -215,7 +215,7 @@
                            Free Shiping
                         </h5>
                         <p>
-                           variations of passages of Lorem Ipsum available
+                           Get Free Shipping on all orders!
                         </p>
                      </div>
                   </div>
@@ -236,7 +236,7 @@
                            Best Quality
                         </h5>
                         <p>
-                           variations of passages of Lorem Ipsum available
+                        Choose the Quality of Food
                         </p>
                      </div>
                   </div>

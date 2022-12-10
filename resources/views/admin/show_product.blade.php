@@ -20,6 +20,7 @@
             text-align:center;
             font-size:40px;
             padding-top:20px;
+ 
         }
 
         .img_size
@@ -30,12 +31,17 @@
 
         .th_color
         {
-            background-color:blue;
+            background-color:#6495ED;
         }
 
         .th_deg
         {
             padding:20px;
+        }
+
+        table, th, td 
+        {
+            border: 1px solid;
         }
 
     </style>
@@ -57,13 +63,13 @@
             </div>
         @endif
 
-
+<div class="grid_dsg">
             <h2 class="font_size">All Products</h2>
             <table class="center">
                 <tr class="th_color">
                     <th class="th_deg">Product Title</th>
                     <th class="th_deg">Description</th>
-                    <th class="th_deg">Quantity</th>
+                    <th class="th_deg">Quantity(Kg)</th>
                     <th class="th_deg">Catagory</th>
                     <th class="th_deg">Price</th>
                     <th class="th_deg">Discount</th>
@@ -88,9 +94,10 @@
                         <a class="btn btn-danger" onclick="return confirm('Are You Sure to Delete this?')" href="{{url('delete_product',$product->id)}}">Delete</a>
                     </td>
                     <td>
-                        <a class="btn btn-success" href="">Edit</a>
+                        <a class="btn btn-success" href="{{url('update_product',$product->id)}}">Edit</a>
                     </td>
                 </tr>
+    </div>
                 @endforeach
             </table>
         </div>

@@ -5,13 +5,13 @@
                   <div class="col-md-6 offset-md-3">
                      <div class="subscribe_form ">
                         <div class="heading_container heading_center">
-                           <h3>Subscribe To Get Discount Offers</h3>
+                           <h3>Enter Your Comment Here</h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                        <p></p>
                         <form action="">
-                           <input type="email" placeholder="Enter your email">
+                           <input type="email" placeholder="Enter your comment">
                            <button>
-                           subscribe
+                           Submit
                            </button>
                         </form>
                      </div>

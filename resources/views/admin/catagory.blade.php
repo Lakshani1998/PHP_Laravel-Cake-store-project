@@ -28,11 +28,30 @@
 
         .center{
             margin:auto;
-            width:50%;
+            width:70%;
             text-align:center;
             margin-top: 30px;
             border:3px solid white;
         }
+
+        table, th, td 
+        {
+          border: 1px solid;
+        }
+
+        .header_dsg
+        {
+          font-size:20px;
+
+        }
+
+        .header_color
+        {
+          background-color: #6495ED;
+        }
+
+
+
     </style>
 
   </head>
@@ -63,7 +82,7 @@
             </div>
 
             <table class ="center">
-                <tr>
+                <tr class="header_color">
                     <td>Catagory Name</td>
                     <td>Action</td>
                     @foreach($data as $data)

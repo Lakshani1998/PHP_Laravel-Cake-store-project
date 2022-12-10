@@ -76,7 +76,7 @@
 
                 <div class="div_design">
                 <label>Discount Price :</label>
-                <input class="text-color" type="number" name="dis_price" placeholder="Write a Discount(If Apply)" >
+                <input class="text-color" type="number" name="dis_price" placeholder="Write a Discount" >
                 </div>
 
                 <div class="div_design">

@@ -2,7 +2,7 @@
          <div class="container">
             <div class="heading_container heading_center">
                <h2>
-                  Customer's Testimonial
+                  Customer Feedback
                </h2>
             </div>
             <div id="carouselExample3Controls" class="carousel slide" data-ride="carousel">
@@ -12,19 +12,19 @@
                         <div class="img_container">
                            <div class="img-box">
                               <div class="img_box-inner">
-                                 <img src="images/client.jpg" alt="">
+                                 <img src="images/client1.jpg" alt="">
                               </div>
                            </div>
                         </div>
                         <div class="detail-box">
                            <h5>
-                              Anna Trevor
+                              Ama Kodithuwakku
                            </h5>
                            <h6>
                               Customer
                            </h6>
                            <p>
-                              Dignissimos reprehenderit repellendus nobis error quibusdam? Atque animi sint unde quis reprehenderit, et, perspiciatis, debitis totam est deserunt eius officiis ipsum ducimus ad labore modi voluptatibus accusantium sapiente nam! Quaerat.
+                           I just wanted to thank you personally for the wonderful cake you created in honour of my 50th birthday.  I was so impressed and so was everyone else!!!
                            </p>
                         </div>
                      </div>
@@ -34,19 +34,19 @@
                         <div class="img_container">
                            <div class="img-box">
                               <div class="img_box-inner">
-                                 <img src="images/client.jpg" alt="">
+                                 <img src="images/client2.jpg" alt="">
                               </div>
                            </div>
                         </div>
                         <div class="detail-box">
                            <h5>
-                              Anna Trevor
+                              Ranweer Singh
                            </h5>
                            <h6>
                               Customer
                            </h6>
                            <p>
-                              Dignissimos reprehenderit repellendus nobis error quibusdam? Atque animi sint unde quis reprehenderit, et, perspiciatis, debitis totam est deserunt eius officiis ipsum ducimus ad labore modi voluptatibus accusantium sapiente nam! Quaerat.
+                           Your attention to detail is incredible and very much appreciated. From the individual blades of grass, delicate little flowers, strands of hair blowing in the wind and the specs (how on earth did you do those?!)
                            </p>
                         </div>
                      </div>
@@ -56,19 +56,19 @@
                         <div class="img_container">
                            <div class="img-box">
                               <div class="img_box-inner">
-                                 <img src="images/client.jpg" alt="">
+                                 <img src="images/client3.jpg" alt="">
                               </div>
                            </div>
                         </div>
                         <div class="detail-box">
                            <h5>
-                              Anna Trevor
+                              Meesha Asvin
                            </h5>
                            <h6>
                               Customer
                            </h6>
                            <p>
-                              Dignissimos reprehenderit repellendus nobis error quibusdam? Atque animi sint unde quis reprehenderit, et, perspiciatis, debitis totam est deserunt eius officiis ipsum ducimus ad labore modi voluptatibus accusantium sapiente nam! Quaerat.
+                           It seemed such a shame to have to cut into it, but I’m glad we did because the cake itself was a delicious light sponge with a delicate orangey tang and creamy butter icing, just perfect and just what I wanted J.
                            </p>
                         </div>
                      </div>
